@@ -1,8 +1,11 @@
 ---
 title: "Self-Paced Online Course: Introduction to Infographics"
 layout: "home"
-description: ""
+description: "This page provides access to an Infographics self-paced online Quercus course that focuses on best practices for creating infographics."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
 # Self-Paced Online Course: Introduction to Infographics
@@ -17,4 +20,6 @@ Self\-enroll in this course with your UTORID. If you don't have one, [contact us
 
 [**COURSE LINK**](https://q.utoronto.ca/enroll/JXN4XL)
 
-Technique: [Data Visualization](/technique/data-visualization) \| Tools: [Piktochart](/tools/piktochart-0)**Date Created:** 2025\-01\-24**Updated:** 2025\-01\-24
+Technique: [Data Visualization](/technique/data-visualization) \| Tools: [Piktochart](/tools/piktochart-0)
+
+**Date Created:** 2025\-01\-24 **Updated:** 2025\-01\-24
