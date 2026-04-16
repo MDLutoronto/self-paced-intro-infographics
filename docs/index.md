@@ -23,6 +23,6 @@ Self\-enroll in this course with your UTORID. If you don't have one, [contact us
 
 [**COURSE LINK**](https://q.utoronto.ca/enroll/JXN4XL)
 
-Technique: [Data Visualization](/technique/data-visualization) \| Tools: [Piktochart](/tools/piktochart-0)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Piktochart](https://mdlutoronto.github.io/tutorials-search/?tool=Piktochart)
 
 **Date Created:** 2025\-01\-24 **Updated:** 2025\-01\-24
