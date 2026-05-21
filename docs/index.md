@@ -4,11 +4,11 @@ layout: "home"
 description: "This page provides access to an Infographics self-paced online Quercus course that focuses on best practices for creating infographics."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 maintainer:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 created_date: 2025-01-24
 ---
 
@@ -24,4 +24,4 @@ Self-enroll in this course with your UTORID. If you don't have one, [contact us]
 
 [**COURSE LINK**](https://q.utoronto.ca/enroll/JXN4XL)
 
-**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) | **Tools:** [Piktochart](https://mdlutoronto.github.io/tutorials-search/?tool=Piktochart)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Piktochart](https://mdlutoronto.github.io/tutorials-search/?tool=Piktochart)
